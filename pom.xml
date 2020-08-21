@@ -10,8 +10,9 @@
   <packaging>pom</packaging> <!-- 修改打包方式 -->
 
   <modules>
-    <module>validate-clean8001</module>
+    <module>relation-vars-validclean8001</module>
     <module>relation-vars-common</module>
+    <module>relation-vars-calc8002</module>
   </modules>
 
   <!--微服务模块：
